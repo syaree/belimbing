@@ -8,5 +8,4 @@ edition = "2018"
 [dependencies]
 tera = "1"
 actix-web = "3"
-lazy_static = "1"
 serde = { version = "1", features = ["derive"] }
